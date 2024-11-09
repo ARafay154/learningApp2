@@ -1,0 +1,2 @@
+import SpecificCategoryCourseScreen from "./SpecificCategoryCourseScreen";
+export default SpecificCategoryCourseScreen
